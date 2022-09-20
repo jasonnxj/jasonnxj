@@ -1,5 +1,4 @@
 - Hi, I’m @jasonnxj.
-- My CS50x journey can be found [here](https://github.com/code50/56112444).
 - You can find my CV [here](https://drive.google.com/file/d/1_2KsF0Axnv1s1lqChJ3OufaY0GrO-y5e/view?usp=sharing).
 - You can reach me by email:  jasonnxj "at" gmail.com
 
